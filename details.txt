@@ -1,0 +1,1 @@
+A blogging application to understand concept of Backend(JWT, EXPRESS EMAIL, OAUTH etc)
